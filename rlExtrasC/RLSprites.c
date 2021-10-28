@@ -33,7 +33,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <malloc.h>
+#include <stdlib.h>
 
 void CopyName(const char* text, char* dest)
 {
